@@ -1,36 +1,36 @@
 {
-  "name": "Transitive Bullshit",
-  "short_name": "Transitive BS",
+  "name": "Tiangou Li",
+  "short_name": "tgl",
   "icons": [
     {
-      "src": "/favicon-16x16.png",
-      "type": "image/png",
+      "src": "/tiangou-16x16.jpeg",
+      "type": "image/jpeg",
       "sizes": "16x16"
     },
     {
-      "src": "/favicon-32x32.png",
-      "type": "image/png",
+      "src": "/tiangou-32x32.jpeg",
+      "type": "image/jpeg",
       "sizes": "32x32"
     },
     {
-      "src": "/favicon-96x96.png",
-      "type": "image/png",
+      "src": "/tiangou-96x96.jpeg",
+      "type": "image/jpeg",
       "sizes": "96x96"
     },
     {
-      "src": "/apple-touch-icon.png",
-      "type": "image/png",
+      "src": "/tiangou-192x192.jpeg",
+      "type": "image/jpeg",
       "sizes": "180x180"
     },
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "/tiangou-192x192.jpeg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpeg"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "/tiangou-512x512.jpeg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ],
   "theme_color": "#F898B9",
